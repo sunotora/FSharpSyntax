@@ -1,5 +1,4 @@
-﻿namespace Lambda
-module Lambda =
+﻿module Lambda
 
   // func1, func2は同じ引数の関数
   let func1 = fun x -> x * x
